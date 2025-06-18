@@ -1,0 +1,57 @@
+.bi { 
+    color:#ffffff;
+}
+
+.text-colored { 
+    color:#aa2020;
+}
+
+.navbar { 
+    background-color: #aa2020;
+}
+
+#cabecalho .nav .nav-link.active{ 
+    background-color: #ca3333;
+    color: #fff;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand, .navbar-brand:hover,
+.nav-generos .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-brand { 
+    color: #fff;
+}
+
+.section-title {
+    font-family: "Cookie", cursive;
+}
+
+#ofertas, #fale-conosco { 
+    background-color: hsl(0, 87%, 94%);
+}
+
+.carousel-item img { 
+    max-height: 600px;
+}
+
+.nav-generos .nav-link.active,
+#fale-conosco button {
+    background-color: #ca3333;
+    color: #fff;
+}
+
+.nav-generos .nav-link:hover {
+    color:#ff3e3e;
+}
+
+.social-links li { 
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a { 
+    text-decoration: none;
+}
